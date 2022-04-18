@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Alessandro-Silvestri
-- 👀 I’m interested in Python and Cyber Security
 - 🌱 I’m currently learning Python and Cyber Security
 
 
