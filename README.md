@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alessandro-Silvestri
-- 🌱 I’m currently learning Python and Cyber Security
+- 🌱 Python Programmer certified (PCAP)
 
 
 <!---
